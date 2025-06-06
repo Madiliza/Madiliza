@@ -1,0 +1,4 @@
+- 👋 Olá, sou Elizabeth Domingues
+- 🖥 Desenvolvedora em formação
+- 🌱 Atualmente estudando flutter
+- 📫 Pode entrar em contato pelo linkedin www.linkedin.com/in/elizabeth-domingues-b25b7b346
